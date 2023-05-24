@@ -8,7 +8,7 @@
 <p align ="center">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png" width="42" height="42"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="32" height="32" /></a>
-<a href="https://developers.google.com/maps?hl=he" target="_blank" rel="noreferrer">   <img src="https://miro.medium.com/v2/resize:fit:1050/0*iReGwQyEHhyn1jsD.png" width="32" height="32" /></a>
+<a href="https://developers.google.com/maps?hl=he" target="_blank" rel="noreferrer">   <img src="https://developers.google.com/static/maps/images/maps-icon.svg?hl=he" width="32" height="32" /></a>
 </p>
 
 ## About 📖
