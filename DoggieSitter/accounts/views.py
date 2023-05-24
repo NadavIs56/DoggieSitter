@@ -178,7 +178,7 @@ def Add(request):
 def Vet_Map(request, un):
     check = User.objects.get(username=un)
     check2 = Accounts.objects.get(user=check)
-    API_KEY = "AIzaSyA1NSKaMXW4cC5k9RB8dtOqlfZq9v7FNHc"
+    API_KEY = "GOOGLE_API_KEY"
     map_client = googlemaps.Client(API_KEY)
     app = Nominatim(user_agent="tutorial")
 
@@ -245,7 +245,7 @@ class DogPage(View):
 
 
 def Parks(request, un):
-    API_KEY = "AIzaSyA1NSKaMXW4cC5k9RB8dtOqlfZq9v7FNHc"
+    API_KEY = "GOOGLE_API_KEY"
     map_client = googlemaps.Client(API_KEY)
     app = Nominatim(user_agent="tutorial")
 
