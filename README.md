@@ -6,8 +6,8 @@
 
 ### <p align ="center"> Implemented using: </p>
 <p align ="center">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png" width="80" height="80" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="32" height="32" /></a></p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png" width="80" height="80"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="80" height="80" /></a></p>
 
 ## About 📖
 DoggieSitter is committed to providing a reliable care option for your furry friend while you're busy at work, school, or other activities. We understand that you lead a busy life, and we're here to ensure that your dogs are well taken care of in your absence.
