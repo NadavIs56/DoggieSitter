@@ -39,6 +39,8 @@ Through DoggieSitter, dog owners are connected with dog sitters by region. While
 ## Get Involved! 👋
 We'd love to have you contribute! Feel free to fork our repository, make some changes, and submit a pull request. If you find any bugs or have suggestions for improvements, don't hesitate to open an issue.
 
+<br>
+
 ## <p align="center">If you love DoggieSitter as much as we do, give us a star ⭐️! </p>
 
   <br>
