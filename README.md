@@ -4,7 +4,8 @@
 
 <br>
 
-### <p align ="center"> Implemented using: </p>
+## <p align ="center"> Implemented using: </p>
+
 <p align ="center">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png" width="32" height="32"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="32" height="32" /></a>
